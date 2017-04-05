@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00944f701e66ef44a0b95d54e53682c6c8d73c4e">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8f68cf7905cb5580bfdb09e7e80d4f5a2c6bcae6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_6c09b5ef4eba71609c1efdf47ab1d6add5d13b2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_2043e4ddc6230da9f439f8bd03708aad0fd4104e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_99bfacd0181a2781cd279f2833a79eb9866b4a28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_cae9fac924dac224d50280f1e7661d847712cba9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_315e36f098d51b8e77ddea34c87ca987cd982b63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_39f82238daa35bbbc93548f8116adfc6419ae8d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e13d95b6d55d815c6dd0bdef98ff0ff6bb32f1f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_25cb23e94d2862fca7457adb1c0703ae8f48d009/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_62797291f92fd93d544e1399d46023abd3d030da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_d6b40bb836c224fbfbbad53911ea2f0b822a0f6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_08c88a59922c79250d1119ceb1fc86fe0a0d858d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e73e2bd01367866e9180f8edf84c9e0e6fd2ed53">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0330e4e0eb696ce6c42caea2f38c2749ea82ca9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a1ac30f463fe9a2881b7c3a6c4953219dd3397f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_28fdaa46c496ad7b947667a1ce1622adc893e7dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_017e1e04951f4c5c129dd81f2ba3fca990feec44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/baidu/Android_Project/SuspensionWindow/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_2b4bb870843639983a757abc9855ca6bf0d6f42c/classes.dex" />
+    </item>
+
+</items>

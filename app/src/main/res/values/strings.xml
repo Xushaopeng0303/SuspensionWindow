@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SuspensionWindow</string>
+
+    <string name="start_suspension_window">Start Suspension Window</string>
+    <string name="stop_suspension_window">Stop Suspension Window</string>
+
+</resources>
